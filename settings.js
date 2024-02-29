@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "yo boy lamy 😂📌📌📌🫂"
 global.creator = "916909137213@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
